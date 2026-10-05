@@ -81,6 +81,9 @@ Interactive Dashboard
 View the Power BI Dashboard:
 (https://app.powerbi.com/groups/me/reports/85bb3650-3fc0-4dd1-9e00-74e0bd91556b?ctid=49a4baf9-983a-440f-8cd1-e4765b528b8e&pbi_source=linkShare)
 
+## Dashboard Preview
+Kindly check the images folder for the dashboard preview.
+
 Recommendations
 
 Based on the analysis, I would recommend:
